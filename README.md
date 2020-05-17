@@ -47,7 +47,7 @@ assertions.
 
 #### Running Command
 
-PATH_TO_VIAP/VfPbP_tool.py file
+PATH_TO_VfPbP/VfPbP_tool.py file
 
 #### Output contains the string:
 ```
@@ -59,9 +59,9 @@ PATH_TO_VIAP/VfPbP_tool.py file
 ### variable1 represent output value (in paper output value is presented as  variable')
 
 
-### Using The PbVIAP Tool
+### Using The VfPbP Tool
 
-Next, we illustrate how to translate the following simple probalistic program using the PbVIAP
+Next, we illustrate how to translate the following simple probalistic program using the VfPbP
 tool:
 
 ```C
