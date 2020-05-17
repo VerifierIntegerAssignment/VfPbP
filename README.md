@@ -1,4 +1,4 @@
-# PbVIAP
+# VfPbP
 <img src="PbVIAP_logo.png" width=400 alt="Viap Logo" align="right">
 
 Verifier for Probalistic Program(VfPbP) translates a program to first-order logic with
@@ -88,7 +88,7 @@ int main( ) {
 
 #### How to run above Example 
 
-$pbviap/pbviap_tool.py  benchmarks/benchmark/binomial.i
+$VfPbP/VfPbP_tool.py  benchmarks/benchmark/binomial.i
 
 #### Output 
 
@@ -215,7 +215,7 @@ while(x<=L)
 
 #### How to run above Example 
 
-$pbviap/pbviap_tool.py  benchmarks/benchmark/binomial.i
+$VfPbP/VfPbP_tool.py  benchmarks/benchmark/binomial.i
 
 #### Output 
 
